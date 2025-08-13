@@ -10,7 +10,10 @@
 </div>
 
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Golang+Developer+%26+Security+Researcher;Penetration+Tester+%7C+Network+Security;Cybersecurity+Specialist;Ethical+Hacker+%7C+Bug+Hunter;Always+Learning+New+Things...">
+ <samp>
+  <h2>🐹 Golang Developer & Security Researcher</h2>
+  <h3>🔍 Penetration Tester | 🛡️ Network Security Specialist</h3>
+ </samp>
 </div>
 
 <div align="center">
